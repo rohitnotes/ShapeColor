@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShapeColor</string>
+    <string name="squares">Squares</string>
+    <string name="circles">Circles</string>
+    <string name="triangles">Triangles</string>
+    <string name="all">All</string>
+</resources>
