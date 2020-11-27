@@ -29,7 +29,7 @@ This is code sample for generate shape with random color.
  
 # Screenshots
  
- ![](screenshot/screenshot1.png)
+ ![](media/screenshot1.png)
  
 # Technologies
 - Android Kotlin
