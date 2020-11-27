@@ -6,7 +6,7 @@ This is code sample for generate shape with random color.
 - User can create infinite number of squares, triangles or circles filled with random colours or images
 - User can clear the shape items by phone shaken
 
-#Completed:
+# Completed:
 1. A user should be able to spawn an infinite number of squares or circles filled with random colours or images.
 2. Application consists of 4 screens using a tab bar. The tabs are as follows:
   - Squares - this screen only spawns squares.
@@ -27,16 +27,16 @@ This is code sample for generate shape with random color.
  - Remove all shapes when shaking the device
  - Be able to move a shape around
  
-#Screenshots
+# Screenshots
  
-#Technologies
+# Technologies
 - Android Kotlin
 - Applying Android MVVM Architecture Components
 - Android Material Design
 - Retrofit2
 - Glide
 
-#Installation Guide (Windows, MacOS, Linux)
+# Installation Guide (Windows, MacOS, Linux)
 - Download/Clone the code.
 - Download Android Studio https://developer.android.com/studio to open project
 - Open project and Open an Existing Project
