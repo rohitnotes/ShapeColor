@@ -46,4 +46,6 @@ This is code sample for generate shape with random color.
 - Connect your Android Device or Emulator (make sure you have already opened the debug mode on your device)
 - Click Run button on Android Studio to install app.
 
+* You can also download ShapeColor.apk from media/ folder for quick install and review.
+
 
